@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="todo">TODO</string>
+    <string name="meme_sharing_app">Meme Sharing App</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+
+    <string name="mi_mema"><u>Mi-Mema</u></string>
+
+
+
+    </resources>
